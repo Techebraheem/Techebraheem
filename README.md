@@ -39,6 +39,15 @@ My focus is helping engineering teams deliver software faster through reliable C
 
 ---
 
+## 📊 GitHub Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Techebraheem&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Ibrahim's GitHub Stats" height="195px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Techebraheem&layout=compact&theme=dark&langs_count=6" alt="Ibrahim's Top Languages" height="195px" />
+</p>
+
+---
+
 ## 🏆 Certifications & Education
 
 * 🛡️ **Microsoft Azure Administrator Associate** (AZ-104)
@@ -53,20 +62,20 @@ My focus is helping engineering teams deliver software faster through reliable C
 ## ⭐ Featured Projects
 
 ### 🚀 Kubernetes Observability Platform
-Enterprise monitoring stack using, Grafana, Loki, Prometheus, Tempo, Mimir, and Grafana Alloy. Designed for full-stack distributed tracing, centralized logging, and metrics collection.
-* [View Repository ➡](https://github.com/Techebraheem/cloud-native-observability)
+Enterprise monitoring stack using Grafana, Loki, Prometheus, Tempo, Mimir, and Grafana Alloy. Designed for full-stack distributed tracing, centralized logging, and metrics collection.
+* [View Repository ➡](https://github.com/YOUR_GITHUB_USERNAME/your-repo)
 
 ### 🚀 Terraform Azure Landing Zone
 Production-ready, highly secure Infrastructure as Code (IaC) architecture designed for managing governance, identity, and multi-subscription networking in Azure.
-* [View Repository ➡]()
+* [View Repository ➡](https://github.com/YOUR_GITHUB_USERNAME/your-repo)
 
 ### 🚀 Enterprise Kubernetes Deployment
 Dockerized multi-tier application architecture deployed into Kubernetes clusters using production-grade manifests, network policies, and configuration management.
-* [View Repository ➡]()
+* [View Repository ➡](https://github.com/YOUR_GITHUB_USERNAME/your-repo)
 
 ### 🚀 Ansible Server Provisioning
 Automated, idempotent configuration management and server provisioning setup utilizing Ansible playbooks and Vagrant for local environment staging.
-* [View Repository ➡]()
+* [View Repository ➡](https://github.com/YOUR_GITHUB_USERNAME/your-repo)
 
 ---
 
