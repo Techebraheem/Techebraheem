@@ -41,12 +41,12 @@ My focus is helping engineering teams deliver software faster through reliable C
 
 ## 📊 GitHub Metrics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Techebraheem&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Ibrahim's GitHub Stats" height="195px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Techebraheem&layout=compact&theme=dark&langs_count=6" alt="Ibrahim's Top Languages" height="195px" />
-</p>
+![Ibrahim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Techebraheem&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+
+![Ibrahim's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Techebraheem&layout=compact&theme=dark&langs_count=6)
 
 ---
+
 
 ## 🏆 Certifications & Education
 
