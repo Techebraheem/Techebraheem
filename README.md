@@ -6,7 +6,7 @@ I build secure cloud platforms, automate software delivery, and enable engineeri
 
 ☁️ **Azure** • **AWS** • **Kubernetes** • **Terraform** • **DevSecOps**
 
-📍 Nigeria | 🌍 Available for Remote Roles & Consulting
+📍🌍 Available for Remote Roles & Consulting
 
 ---
 
